@@ -3,3 +3,5 @@ Kylie
 Fallon
 Jared
 Courtney
+Jamie
+Carol
